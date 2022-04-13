@@ -1,0 +1,12 @@
+### ECLIPSE ###
+.settings
+.project
+
+### VS Code ###
+.vscode/
+
+### FLUIG ###
+forms/**/.metadata
+wcm/layout/**/target/
+wcm/widget/**/target/
+workflow/.resources/
